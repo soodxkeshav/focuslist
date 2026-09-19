@@ -1,0 +1,18 @@
+{
+  "name": "focuslist",
+  "version": "1.0.0",
+  "description": "A premium frontend-only To-Do application.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "todo",
+    "task-manager",
+    "vanilla-js",
+    "frontend"
+  ],
+  "author": "Keshav",
+  "license": "MIT"
+}
